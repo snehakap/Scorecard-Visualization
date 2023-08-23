@@ -1,8 +1,8 @@
 # Scorecard-Visualization
 
-On this assignment I have worked on creating a nice data visualization for the data which is explained below.
+On this assignment I have worked on creating a nice data visualization in PowerBI for the performance of individuals in a particular team during different weeks.
 
-There are three critical subsheets. The given data is of the performance of individuals a particular team. The data has three components- each subsheet has one component			
+There are three critical subsheets. The data has three components- each subsheet has one component.			
 						
 # Overview of the Subsheets	
 
